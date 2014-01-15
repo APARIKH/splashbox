@@ -12,6 +12,13 @@
   .waitlist {
     max-height: 125px!important;
   }
+  .github-ribbon {
+    display: none;
+  }
+  #donation p {
+    top: 17%;
+    line-height: 1.3rem;
+  }
 }
 
 @include media(min-width 321px max-width 768px) {
